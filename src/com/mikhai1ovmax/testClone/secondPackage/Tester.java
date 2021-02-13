@@ -1,4 +1,6 @@
-package com.mikhai1ovmax.testClone;
+package com.mikhai1ovmax.testClone.secondPackage;
+
+import com.mikhai1ovmax.testClone.firstPackage.TestClone;
 
 public class Tester {
     public static void main(String[] args) throws CloneNotSupportedException {
