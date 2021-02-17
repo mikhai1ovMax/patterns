@@ -1,4 +1,4 @@
-package com.mikhai1ovmax.behavioral.mememto;
+package com.mikhai1ovmax.behavioral.memento;
 
 public class Archive {
     private Save save;

@@ -1,4 +1,4 @@
-package com.mikhai1ovmax.behavioral.mememto;
+package com.mikhai1ovmax.behavioral.memento;
 
 import java.util.Arrays;
 import java.util.Date;

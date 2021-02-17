@@ -1,4 +1,4 @@
-package com.mikhai1ovmax.behavioral.mememto;
+package com.mikhai1ovmax.behavioral.memento;
 
 public class Main {
     public static void main(String[] args) {
